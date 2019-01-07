@@ -1,14 +1,12 @@
 # libclojars
 
-A Clojure library designed to ... well, that part is up to you.
+Parts of Clojars extracted into a utility library for use in [Deps](https://www.deps.co), and maybe in your application too?
 
-## Usage
+License
+-------
 
-FIXME
+Copyright © 2009-2017 Alex Osborne, Phil Hagelberg, Nelson Morris,
+Toby Crawley, Daniel Compton and
+[contributors](https://github.com/clojars/clojars-web/graphs/contributors).
 
-## License
-
-Copyright © 2019 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+Distributed under the Eclipse Public License, the same as Clojure.
