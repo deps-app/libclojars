@@ -59,9 +59,9 @@
       (tag "  <version>") version (tag "</version>\n")
       (tag "</dependency>")]]))
 
-(defn coordinates [jar]
+(defn coordinates [attrs jar]
   (for [f [maven-coordinates
            gradle-coordinates
            leiningen-coordinates
            clojure-cli-coordinates]]
-    (f jar)))
+    (f attrs jar)))
