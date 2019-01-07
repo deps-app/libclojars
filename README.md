@@ -1,6 +1,6 @@
 # libclojars
 
-Parts of Clojars extracted into a utility library for use in [Deps](https://www.deps.co), and maybe in your application too?
+Parts of [Clojars](https://github.com/clojars/clojars-web) extracted into a utility library for use in [Deps](https://www.deps.co), and maybe in your application too?
 
 License
 -------
